@@ -1,0 +1,2 @@
+Display: Block; quebra a linha e joga o proximo elemento para baixo
+Display: inline; ocupa só o espaço do conteudo e o proximo elemento é ao lado
